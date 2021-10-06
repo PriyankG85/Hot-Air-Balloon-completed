@@ -6,7 +6,7 @@ var bottomObs1Img, bottomObs2Img, bottomObs3Img;
 var topObs1Img, birdObsAnim;
 var gameOverImg, restartImg;
 var ObstaclesGroup;
-var lives = 1;
+var lives = 5;
 var gameState = 1;
 // For controlling the sound
 var a = 1;
